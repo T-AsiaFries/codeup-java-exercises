@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class ControlFlowExercises {
-    public static void main(String[] args) {
+//public class ControlFlowExercises {
+//    public static void main(String[] args) {
 //        FIRST EXERCISE
 //        (a)
 //        int i = 5;
