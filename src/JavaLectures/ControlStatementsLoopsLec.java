@@ -1,3 +1,5 @@
+package JavaLectures;
+
 import java.util.Scanner;
 
 public class ControlStatementsLoopsLec {
