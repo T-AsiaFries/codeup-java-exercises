@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ControlStatementsLoops {
+public class ControlStatementsLoopsLec {
 
     //    MAIN METHOD THAT RUNS YOUR APPLICATION
     public static void main(String[] args) {
